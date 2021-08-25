@@ -1,4 +1,5 @@
 # Simulate a sports tournament
+# NOTE: don't check out until you run check50 on this problem!!
 
 import csv
 import sys
